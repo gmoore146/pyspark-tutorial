@@ -1,0 +1,4 @@
+output/
+.venv/
+spark-warehouse/
+metastore_db/
